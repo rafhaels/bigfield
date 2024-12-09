@@ -4,7 +4,7 @@ layout: default
 nav_order: 2
 ---
 
-# X
+# Índice
 {: .no_toc .text-delta }
 
 1. TOC
