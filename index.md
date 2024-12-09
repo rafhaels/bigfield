@@ -1,6 +1,6 @@
 ---
-title: Home
-layout: home
+title: Início
+layout: default
 ---
 
 é sobre
