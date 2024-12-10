@@ -1,10 +1,32 @@
 body {
     font-family: 'Crimson Text' !important;
+    font-weight: 400;
     font-size: 1rem;
 }
 
+h1 {
+    font-size: 2rem !important;
+}
+
+h2 {
+    font-size: 1.75rem !important;
+}
+
+h3 {
+    font-size: 1.50rem !important;
+}
+
+h4 {
+    font-size: 1.25rem !important;
+}
+
+
 .nav-list .nav-list-item .nav-list-link {
     font-size: 1rem;
+}
+
+.site-title {
+    font-size: 2rem !important;
 }
 
 .site-footer {
