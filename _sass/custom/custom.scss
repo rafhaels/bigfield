@@ -1,17 +1,10 @@
-@font-face {
-    font-family: 'Bebas Neue';
-    font-style: normal;
-    font-weight: 400;
-    src: url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap') format('truetype');
-}
-
 body {
     font-family: 'Crimson Text';
     font-size: 1rem;
 }
 
 h1, h2, h3 {
-    font-family: 'Bebas Neue', sans-serif !important;
+    font-family: 'BebasNeue', sans-serif !important;
 }
 
 .nav-list .nav-list-item .nav-list-link {
