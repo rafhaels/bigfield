@@ -1,1 +1,5 @@
-$body-font-family: "Crimson Text", serif;
+@import "./vendor/base";
+
+body {
+    font-family: "Crimson Text";
+}
