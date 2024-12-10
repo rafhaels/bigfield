@@ -1,9 +1,17 @@
-$font-stack: "Crimson Text", "Bebas Neue", sans-serif;
+@font-face {
+    font-family: 'Crimson Text';
+    src: url(https://fonts.google.com/specimen/Crimson+Text);
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url(https://fonts.google.com/specimen/Bebas+Neue);
+}
 
 body {
-  font: 100% $font-stack;
+    font-family: 'Crimson Text';
 }
 
 h1, h2, h3 {
-    font: 'Bebas Neue'
+    font-family: 'Bebas Neue';
 }
