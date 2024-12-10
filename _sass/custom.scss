@@ -1,15 +1,12 @@
-@font-face {
-    font-family: 'Crimson Text';
-    src: url(https://fonts.google.com/specimen/Crimson+Text);
-}
+$sans-serif: 'Bebas Neue', sans-serif;
+$serif: 'Crimson Text', serif;
 
-@font-face {
-    font-family: 'Bebas Neue';
-    src: url(https://fonts.google.com/specimen/Bebas+Neue);
-}
+$normal: 400;
+$semibold: 600;
+$bold: 700;
 
 body {
-    font-family: 'Crimson Text';
+    font-family: $serif
 }
 
 h1, h2, h3 {
