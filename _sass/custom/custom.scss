@@ -7,29 +7,25 @@ body {
 }
 
 h1 {
-    font-size: 2rem !important;
-}
-
-h2 {
     font-size: 1.75rem !important;
 }
 
-h3 {
+h2 {
     font-size: 1.50rem !important;
 }
 
-h4 {
+h3 {
     font-size: 1.25rem !important;
 }
 
 .nav-list .nav-list-item .nav-list-link {
-    font-family: 'Roboto';
+    font-family: 'Inter';
     font-size: 1rem;
 }
 
 .site-title {
-    font-family: 'Roboto';
-    font-size: 2rem !important;
+    font-family: 'Inter';
+    font-size: 1.75rem !important;
 }
 
 .search-input {
@@ -37,5 +33,6 @@ h4 {
 }
 
 .site-footer {
+    font-family: 'Inter';
     font-size: 1rem !important;
 }
