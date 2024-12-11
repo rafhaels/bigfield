@@ -1,5 +1,5 @@
 ---
-title: Início
+title: Sobre
 layout: default
 nav_order: 1
 ---
