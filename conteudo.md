@@ -5,7 +5,10 @@ nav_order: 2
 ---
 
 # Índice
-{: .no_toc .text-delta }
+
+## Cabeçalho 2
+
+### Cabeçaralho 3
 
 1. TOC
 {:toc}
